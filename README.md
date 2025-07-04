@@ -159,16 +159,8 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para:
 
 Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
-## 👨‍💻 Autor
+## Author
 
-**David** - [@trydavidqix](https://github.com/trydavidqix)
-
-## 🙏 Agradecimentos
-
-- [React Native Reanimated](https://docs.swmansion.com/react-native-reanimated/) pela excelente biblioteca de animações
-- [React Native Gesture Handler](https://docs.swmansion.com/react-native-gesture-handler/) pelos gestos fluidos
-- [Expo](https://expo.dev/) pela plataforma de desenvolvimento
-
----
-
-⭐ Se este projeto foi útil para você, considere dar uma estrela no repositório!
+| [<img src="https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4" width="100" style="border-radius: 50%;"><br><sub>David Macêdo</sub>](https://github.com/trydavidqix) |
+| :---------------------------------------------------------------------------------------------------------------------------------------: |
+| [LinkedIn](https://www.linkedin.com/in/trydavidqix/) |
